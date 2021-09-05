@@ -25,3 +25,12 @@ A ResNet50 CNN pre-trained model is also used for prediction.
 
 
 
+# Results
+
+| Model  | R2_Score(%) | RMSE |
+| ------------- | ------------- | ------------- | 
+| OLS Regression		  | 37.37  | 8.905184		| 
+| Multilayer Perceptron		| 66.59	| 6.503388		| 
+| Support Vector Regression		| 59.45	| 7.164976		| 
+| SConvolutional Neural Network	 (ResNet) | 78.72	| 5.189950	 |	
+
